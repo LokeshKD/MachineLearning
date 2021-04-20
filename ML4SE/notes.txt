@@ -1,0 +1,14 @@
+
+
+Loss Functions:
+--------------
+L1norm = Sum(|acutal - predicted|)
+
+L2norm = Sum((actual - predicted)^2)
+
+
+cross-entropy = log-loss = loss function that is small when probability is close to label.
+
+
+Regular gradient descent has trouble minimizing complex loss functions.
+A popular and effective optimization method is Adam.
