@@ -1,0 +1,10 @@
+
+# Following Sites provide lots of Training DataSets.
+
+http://www.statmt.org/wmt18/translation-task.html
+
+http://dataset.cs.mcgill.ca/ubuntu-corpus-1.0/
+
+https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+
+
